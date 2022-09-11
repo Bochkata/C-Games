@@ -1,0 +1,48 @@
+Afganistan_Kabul
+Armenia_Yerevan
+Azerbaijan_Baku
+Bahrain_Manama
+Bangladesh_Dhaka
+Bhutan_Thimphu
+Brunei_Bandar Seri Begawan
+Cambodia_Phnom Penh
+China_Beijing
+Cyprus_Nicosia
+East Timor_Dili
+Georgia_Tbilisi
+India_New Delhi
+Indonesia_Jakarta
+Iran_Tehran
+Iraq_Baghdad
+Israel_Jerusalem
+Japan_Tokyo
+Jordan_Amman
+Kazakhstan_Nur-Sultan
+Kuwait_Kuwait City
+Kyrgyzstan_Bishkek
+Laos_Vientiane
+Lebanon_Beirut
+Malaysia_Kuala Lumpur	
+Maldives_Male
+Mongolia_Ulaanbaatar
+Myanmar_Naypyidaw
+Nepal_Kathmandu
+North Korea_Pyongyang
+Oman_Muscat
+Pakistan_Islamabad
+Philippines_Manila
+Qatar_Doha
+Russia_Moscow
+Saudi Arabia_Riyadh
+Singapore_Singapore
+South Korea_Seoul
+Sri Lanka_Sri Jayawardenepura Kotte
+Syria_Damascus
+Tajikistan_Dushanbe
+Thailand_Bangkok
+Turkey_Ankara
+Turkmenistan_Ashgabat
+United Arab Emirates_Abu Dhabi
+Uzbekistan_Tashkent
+Vietnam_Hanoi
+Yemen_Sana'a

@@ -1,0 +1,54 @@
+Algeria_Algiers
+Angola_Luanda
+Benin_Porto-Novo
+Botswana_Gaborone
+Burkina Faso_Ouagadougou
+Burundi_Gitega
+Cameroon_Yaounde
+Cape Verde_Praia
+Central African Republic_Bangui
+Chad_N'Djamena
+Comoros_Moroni
+Democratic Republic of the Congo_Kinshasa
+Djibouti_Djibouti
+Egypt_Cairo
+Equatorial Guinea_Malabo
+Eritrea_Asmara
+Eswatini_Mbabane
+Ethiopia_Addis Ababa
+Gabon_Libreville
+Ghana_Accra
+Guinea_Conakry
+Guinea-Bissau_Bissau
+Ivory Coast_Yamoussoukro
+Kenya_Nairobi
+Lesotho_Maseru
+Liberia_Monrovia
+Libya_Tripoli
+Madagascar_Antananarivo
+Malawi_Lilongwe
+Mali_Bamako
+Mauritania_Nouakchott
+Mauritius_Port Louis
+Morocco_Rabat
+Mozambique_Maputo
+Namibia_Windhoek
+Niger_Niamey
+Nigeria_Abuja
+Republic of the Congo_Brazzaville
+Rwanda_Kigali
+Sao Tome and Principe_São Tomé
+Senegal_Dakar
+Seychelles_Victoria
+Sierra Leone_Freetown
+Somalia_Mogadishu
+South Africa_Pretoria	
+South Sudan_Juba
+Sudan_Khartoum
+Tanzania_Dodoma
+The Gambia_Banjul
+Togo_Lomé
+Tunisia_Tunis
+Uganda_Kampala
+Zambia_Lusaka
+Zimbabwe_Harare

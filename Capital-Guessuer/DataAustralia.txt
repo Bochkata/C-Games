@@ -1,0 +1,14 @@
+Australia_Canberra
+Federated States of Micronesia_Palikir
+Fiji_Suva
+Kiribati_South Tarawa
+Marshall Islands_Majuro
+Nauru_Yaren
+New Zealand_Wellington
+Palau_Ngerulmud
+Papua New Guinea_Port Moresby
+Samoa_Apia
+Solomon Islands_Honiara
+Tonga_Nukuʻalofa
+Tuvalu_Funafuti
+Vanuatu_Port Vila

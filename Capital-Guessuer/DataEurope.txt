@@ -1,0 +1,43 @@
+Albania_Tirana
+Andorra_Andorra la Vella
+Austria_Vienna
+Belarus_Minsk
+Belgium_Brussels
+Bosnia and Herzegovina_Sarajevo
+Bulgaria_Sofia
+Croatia_Zagreb
+Czechia_Prague
+Denmark_Copenhagen
+Estonia_Tallinn
+Finland_Helsinki
+France_Paris
+Germany_Berlin
+Greece_Athens
+Hungary_Budapest
+Iceland_Reykjavik
+Ireland_Dublin
+Italy_Rome
+Latvia_Riga
+Liechtenstein_Vaduz
+Lithuania_Vilnius
+Luxembourg_Luxembourg
+Malta_Valletta
+Moldova_Chisinau
+Monaco_Monaco
+Montenegro_Podgorica
+The Netherlands_Amsterdam
+North Macedonia_Skopje
+Norway_Oslo
+Poland_Warsaw
+Portugal_Lisbon
+Romania_Bucharest
+Russia_Moscow
+San Marino_San Marino
+Serbia_Belgrade
+Slovakia_Bratislava
+Slovenia_Ljubljana
+Spain_Madrid
+Sweden_Stockholm
+Switzerland_Bern
+Ukraine_Kiev
+United Kingdom_London
