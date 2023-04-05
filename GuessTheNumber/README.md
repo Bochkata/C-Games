@@ -25,4 +25,4 @@ so that you are either right or you can discard roughly half of the possibilitie
 By continuing this process,
 in the third step you narrow it down to at most 12 possibilities;
 in the fourth, to at most 6 possibilities.
-On your last guess u have 16% chance to guess right 
+On your last guess u have 16% chance to guess right.
